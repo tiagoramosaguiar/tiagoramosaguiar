@@ -1,1 +1,1 @@
-### Hello, world!
+### Console.Write("Hello, world!");
