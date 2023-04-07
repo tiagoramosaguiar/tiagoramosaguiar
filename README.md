@@ -7,9 +7,8 @@
 </div>
 
 <br>
-    <h2  align="center"><strong>Visitas</strong></h2>
+    <h2 align="center"><strong>Visitas</strong></h2>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
 <br>
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
