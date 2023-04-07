@@ -7,7 +7,7 @@
 </div>
 
 <br>
-    <h2 align="center"><strong>Visitas</strong></h2>
+    <h2 align="center">Visitas</h2>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
 <br>
 
