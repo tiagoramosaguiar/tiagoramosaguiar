@@ -6,4 +6,10 @@
   <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoramosaguiar&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<br>
+    <h2  align="center"><strong>Visitas</strong></h2>
+<br>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
