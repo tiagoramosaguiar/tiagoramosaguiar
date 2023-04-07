@@ -8,7 +8,7 @@
 
 </br>
     <h2 align="center">Visitas</h2>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiagoramosaguiar}/count.svg" /></p> 
+    <p align="center" style="border: none;"><img align="center" src="https://profile-counter.glitch.me/{tiagoramosaguiar}/count.svg"/></p>
 </br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
