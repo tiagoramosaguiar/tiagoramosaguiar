@@ -10,6 +10,6 @@
 
 ## Visitas
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiagoramosaguiar}/count.svg"/></p>
+<img style="display:block; margin:0; padding:0; border:0;" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
