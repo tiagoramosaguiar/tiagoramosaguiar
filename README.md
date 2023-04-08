@@ -7,7 +7,7 @@
 </div>
 
 </br>
-    <h2 align="center" style="border-bottom: none;">Visitas</h2>
+    <h2 align="center">Visitas</h2>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiagoramosaguiar}/count.svg" /></p>
 </br>
 
