@@ -6,10 +6,9 @@
   <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoramosaguiar&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<br/>
-
-## Visitas
-
-<img style="display:block; margin:0; padding:0; border:0;" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header"/>
+</br>
+    <h2 align="center">Visitas</h2>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tiagoramosaguiar}/count.svg" /></p>
+</br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
