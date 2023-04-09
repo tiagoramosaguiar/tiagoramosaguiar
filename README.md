@@ -2,12 +2,12 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F3F6&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+Meu+nome+é+Tiago+Ramos+Aguiar;Tenho+17+anos+de+idade;Cursando+Técnico+em+Informática+no+CEDUP;Seja+bem-vindo+ao+meu+GitHub!+:D.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=178600&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+Meu+nome+é+Tiago+Ramos+Aguiar;Tenho+17+anos+de+idade;Cursando+Técnico+em+Informática+no+CEDUP;Seja+bem-vindo+ao+meu+GitHub!+:D.)](https://git.io/typing-svg)
 
 <br>
 
 <div align="center">  
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoramosaguiar&layout=compact&hide_border=true&title_color=F0F3F6&text_color=F0F3F6&bg_color=0d1117"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoramosaguiar&layout=compact&hide_border=true&title_color=178600&text_color=178600&bg_color=0d1117"/>
 </div>
 
 <br>
