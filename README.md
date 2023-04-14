@@ -9,4 +9,4 @@
 
 ![](https://img.shields.io/badge/Database-MySQL-blueviolet?style=for-the-badge&logo=mysql)
 
-![](https://img.shields.io/badge/Tool-Git-blueviolet?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/Tool-Github-blueviolet?style=for-the-badge&logo=github)
