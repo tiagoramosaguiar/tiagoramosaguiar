@@ -9,5 +9,3 @@
 ![](https://img.shields.io/badge/Plataforma-.NET-gray?style=for-the-badge&logo=dotnet)
 
 ![](https://img.shields.io/badge/DBMS-MySQL-gray?style=for-the-badge&logo=mysql)
-
-![](https://img.shields.io/badge/Ferramenta-Github-gray?style=for-the-badge&logo=github)
