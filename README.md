@@ -7,6 +7,6 @@
 ![](https://img.shields.io/badge/Código-C%23-gray?style=for-the-badge&logo=csharp)
 ![](https://img.shields.io/badge/Código-.NET-gray?style=for-the-badge&logo=dotnet)
 
-![](https://img.shields.io/badge/Database-MySQL-gray?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/Banco%20de%20Dados-MySQL-gray?style=for-the-badge&logo=mysql)
 
-![](https://img.shields.io/badge/Tool-Github-gray?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Ferramenta-Github-gray?style=for-the-badge&logo=github)
