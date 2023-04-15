@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20/%20Code-gray?style=for-the-badge&logo=visualstudio)
 
-![](https://img.shields.io/badge/Code-C%23-gray?style=for-the-badge&logo=csharp)
+![](https://img.shields.io/badge/Linguagem-C%23-gray?style=for-the-badge&logo=csharp)
 ![](https://img.shields.io/badge/Code-.NET-gray?style=for-the-badge&logo=dotnet)
 
 ![](https://img.shields.io/badge/Database-MySQL-gray?style=for-the-badge&logo=mysql)
