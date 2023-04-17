@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu GitHub!
 
-![](https://img.shields.io/badge/Sistema%20Operacional-Windows-gray?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/Sistema%20Operacional-Windows-black?style=for-the-badge&logo=windows)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-gray?style=for-the-badge&logo=visualstudio)
 
