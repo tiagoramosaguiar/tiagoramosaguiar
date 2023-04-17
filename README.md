@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Sistema%20Operacional-Windows-gray?style=for-the-badge&logo=windows)
 
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20/%20Code-gray?style=for-the-badge&logo=visualstudio)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-gray?style=for-the-badge&logo=visualstudio)
 
 ![](https://img.shields.io/badge/Linguagem-C%23-gray?style=for-the-badge&logo=csharp)
 
