@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Sistema%20Operacional-Windows-0078D7?style=for-the-badge&logo=windows)
 
-![](https://img.shields.io/badge/IDE-Visual%20Studio-black?style=for-the-badge&logo=visualstudio)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-0078D7?style=for-the-badge&logo=visualstudio)
 
 ![](https://img.shields.io/badge/Linguagem-C%23-0078D7?style=for-the-badge&logo=csharp)
 
