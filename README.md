@@ -1,7 +1,5 @@
 ### Seja bem-vindo ao meu GitHub!
 
-<div style="display: inline_block" align="center"><br>
-  
 ![](https://img.shields.io/badge/Sistema%20Operacional-Windows-gray?style=for-the-badge&logo=windows)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-gray?style=for-the-badge&logo=visualstudio)
@@ -11,5 +9,3 @@
 ![](https://img.shields.io/badge/Plataforma-.NET%20Core%207.0-gray?style=for-the-badge&logo=dotnet)
 
 ![](https://img.shields.io/badge/DBMS-MySQL-gray?style=for-the-badge&logo=mysql)
-  
-</div>
