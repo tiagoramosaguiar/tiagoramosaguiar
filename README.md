@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu GitHub!
 
-![](https://img.shields.io/badge/Sistema%20Operacional-Windows-blue?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/Sistema%20Operacional-Windows-0078D7?style=for-the-badge&logo=windows)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?style=for-the-badge&logo=visualstudio)
 
