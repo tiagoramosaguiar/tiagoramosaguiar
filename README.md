@@ -1,4 +1,6 @@
+<div align="center">
 ### Seja bem-vindo ao meu GitHub!
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="CSharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
